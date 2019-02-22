@@ -8,3 +8,5 @@ Simple Html Admin Template - Copy From https://coreui.io
 c:\xampp\php\php.exe -S 127.0.0.1:8080 
 4. Goto IE/FF/Chrome, then enter http://127.0.0.1:8080
 
+# Gui Sample
+![alt text](https://github.com/tbvinh/html-ui/blob/master/img/Capture.JPG)
